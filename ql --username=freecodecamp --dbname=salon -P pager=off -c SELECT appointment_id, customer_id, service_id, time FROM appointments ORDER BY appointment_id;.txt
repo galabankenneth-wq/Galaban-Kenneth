@@ -1,0 +1,6 @@
+ appointment_id | customer_id | name |    phone     | service_id | service | time  
+----------------+-------------+------+--------------+------------+---------+-------
+              2 |           2 | Lina | 555-555-5556 |          1 | cut     | 10:30
+              3 |           2 | Lina | 555-555-5556 |          2 | color   | 11am
+(2 rows)
+
